@@ -6,8 +6,9 @@ top
 
 These are some Machine Learning and Data Mining algorithms and models help you to understand your data and derive meaning from it.
 
-Supervised Learning
-Regression
+*Supervised Learning
+*Regression 
+
 Linear Regression
 Ordinary Least Squares
 Logistic Regression
