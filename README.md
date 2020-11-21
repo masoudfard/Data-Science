@@ -1,8 +1,5 @@
-# Data-Science
+# Data-Science #
 An open-source Data Science repository to learn and apply towards solving real-world problems in Australia.
-
-Algorithms
-top
 
 These are some Machine Learning and Data Mining algorithms and models help you to understand your data and derive meaning from it.
 
