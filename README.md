@@ -1,6 +1,8 @@
 # Data Science and Machine Learning Portfolio #
 
-An open-source Data Science repository containing portfolio of projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter Notebooks.
+An open-source Data Science repository containing portfolio of projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter Notebooks. Click on the projects to see full modelling, analysis and code.
+
+feel free to contact me on: - [LinkedIn](https://www.linkedin.com/in/masoud-khfard/)
 
 Tools:
 
