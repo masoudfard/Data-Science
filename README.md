@@ -3,7 +3,6 @@
 An open-source Data Science repository containing portfolio of projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks.
 
 ## Contents
----
 These are some Machine Learning and Data Mining algorithms and models help you to understand your data and derive meaning from it.
 
 ### Supervised Learning ### 
