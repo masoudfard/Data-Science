@@ -2,12 +2,12 @@
 
 An open-source Data Science repository containing portfolio of projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter Notebooks. Click on the projects to see full modelling, analysis and code.
 
-feel free to contact me on: - [LinkedIn](https://www.linkedin.com/in/masoud-khfard/)
-
 Tools:
 
 * Python: NumPy, Pandas, Seaborn, Matplotlib
 * Machine Learning: scikit-learn, TensorFlow, keras
+
+Feel free to contact me on: - [LinkedIn](https://www.linkedin.com/in/masoud-khfard/)
 
 ## Contents
 These are some Machine Learning and Data Mining algorithms and models help you to understand your data and derive meaning from it.
