@@ -1,6 +1,11 @@
-# Data-Science #
+# Data Science and Machine Learning Portfolio #
 
-An open-source Data Science repository containing portfolio of projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks.
+An open-source Data Science repository containing portfolio of projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter Notebooks.
+
+Tools:
+
+* Python: NumPy, Pandas, Seaborn, Matplotlib
+* Machine Learning: scikit-learn, TensorFlow, keras
 
 ## Contents
 These are some Machine Learning and Data Mining algorithms and models help you to understand your data and derive meaning from it.
